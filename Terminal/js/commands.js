@@ -2,15 +2,15 @@ var twitter = 'https://twitter.com/sc0tt08';
 var instagram = 'https://www.instagram.com/sc0tt____/';
 var github = 'https://github.com/SF-08';
 var password = 'sfportfolio';
-var email = 'mailto: 24000681@midkent.ac.uk';
+var email = 'mailto: EMAIL';
 var secretvideo = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
-var cybersecurity = 'https://midkentcollege-my.sharepoint.com/:w:/g/personal/24000681_midkent_ac_uk/EdXzpP2vHZFOvZPfxfEbiG8BO46DqNAhClV6IXAmw_ixOg?e=RDGPFJ'
-var task1assessment = 'https://midkentcollege-my.sharepoint.com/:w:/r/personal/24000681_midkent_ac_uk/Documents/24-25%20IT/Unit%2013%20-%20Website%20Development%20(Project%201)/Task%201%20Assessment.docx?d=w947f646193684d03b44d60cbe2e50347&csf=1&web=1&e=8VqAdf'
+var cybersecurity = 'LINK TO WORK'
+var task1assessment = 'LINK TO WORK'
 
 whois = [
     "<br>",
     "Hello, I'm Scott",
-    "I'm a student and an aspiring web developer currently learning at Midkent College at the Medway Campus",
+    "I'm a student and an aspiring web developer currently learning at COLLEGE NAME at the COLLEGE Campus",
     "The subject I am currently learning is Level 2 IT & Cyber Security",
     "Level 2 IT & Cyber Security is a 1 year course and can be learnt further on with the Level 3 course",
     "This website has specifically been created to demonstrate what I currently know within coding as well as what I am currently",
