@@ -75,7 +75,7 @@ function commander(cmd) {
       loopLines(projects, "color2 margin", 80);
       break;
     case "email":
-      addLine('Opening mailto:<a href="mailto:24000681@midkent.ac.uk">24000681@midkent.ac.uk</a>...', "color2", 80);
+      addLine('Opening mailto:<a href="mailto:EMAIL">EMAIL</a>...', "color2", 80);
       newTab(email);
       break;
       case "clear":
